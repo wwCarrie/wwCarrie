@@ -8,9 +8,10 @@
 
 
 - I like Python, data science, AI/LLM, and AI for bio.
-- My dream is to become an expert in my field, adopt a cat, and settle in a city I love.
 - I'm happy to contribute for free to fun projects and ideas.
 - Outside code, I enjoy reading, running, and table tennis.
+- My dream is to become an expert in my field, adopt a cat, and settle in a city I love.
+
 
 <p>
   <samp>
