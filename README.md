@@ -1,7 +1,7 @@
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=false&pause=100000&lines=Hi,+I'm+SuCarrie." alt="Hi, I'm SuCarrie" />
   <p>
-    <code>TJU CS graduate student</code>
+    <code>TJU SE graduate student</code>
     <code>Based in China</code>
   </p>
 </div>
